@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# Print the process ID using $$ which expands to the current process ID
+# Print the process ID
 echo $$
 
