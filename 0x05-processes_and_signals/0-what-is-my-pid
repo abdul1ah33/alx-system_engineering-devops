@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Print the process ID using $$ which expands to the current process ID
+echo "$$"
+
