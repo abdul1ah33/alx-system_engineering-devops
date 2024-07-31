@@ -16,4 +16,3 @@ if __name__ == "__main__":
         for t in todos:
             writer.writerow(
                     user_id, username, t.get("completed"), t.get("title"))
-
